@@ -1,4 +1,4 @@
-# Monte Carlo Option Pricing
+# Monte Carlo European Call Option Pricing
 
 A Python implementation of the Monte Carlo simulation method for pricing European call options using Geometric Brownian Motion (GBM).
 
