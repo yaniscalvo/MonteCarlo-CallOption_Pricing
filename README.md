@@ -208,7 +208,9 @@ This visualization helps understand the range of possible outcomes under GBM.
 - Multi-asset options (basket options)
 - Sensitivity analysis and parameter optimization
 
-## Author
+## 👤 Author
 
-Created as an educational tool for understanding Monte Carlo methods in quantitative finance.
+**Yanis Calvo**
+
+- GitHub: [@yaniscalvo](https://github.com/yaniscalvo)
 
